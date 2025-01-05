@@ -4,7 +4,7 @@ A collection of example models for conts & discrete type of question are expecte
 
 
 ---
-IDEAL SCHEDULE: **
+IDEAL SCHEDULE** : 
 
 Day1: 
 
