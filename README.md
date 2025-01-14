@@ -27,3 +27,7 @@ Day 4 + all nighter :
 1. The third question model establishment and algorithm analysis;
 2. Sensitivity analysis and robustness test, conclusion, summary,
 3. Write non-technical reports;
+
+**Some Useful Link:**
+1.https://matplotlib.org/stable/plot_types/index.html
+2.https://github.com/dick20/MCM-ICM
